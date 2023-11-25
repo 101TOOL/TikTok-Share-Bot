@@ -16,10 +16,11 @@ Then put the link of your TikTok video to avoid any bugs
 # How to run:
 
 1. Run the Setup.bat
-2. Run the ShareBot.py
-3. Put the URL of your tiktok video
-4. Put the number of views you want
-5. then enter 1
+2. Run this command in cmd: pip install tls_client requests colorama pillow
+3. Run the ShareBot.py
+4. Put the URL of your tiktok video
+5. Put the number of views you want
+6. then enter 1
 
 # Disclaimer
 
